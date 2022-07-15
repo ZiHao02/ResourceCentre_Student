@@ -308,9 +308,7 @@ public class ResourceCentre {
 		if (isReturned == false) {
 			System.out.println("Invalid asset tag");
 		} else {
-			System.out.println("Chromebook " + tag + " returned");
-			System.out.println("hi");
-		
+			System.out.println("Chromebook " + tag + " returned");		
 		}
 	}
 
